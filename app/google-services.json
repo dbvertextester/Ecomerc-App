@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "471027344914",
+    "project_id": "ecomerc-app",
+    "storage_bucket": "ecomerc-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:471027344914:android:edb74c4401a6755e775acb",
+        "android_client_info": {
+          "package_name": "com.dbvetex.ecomerc_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCb1cO_ecAQv1ZQgTGTNEvF945mYw0a6OE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
